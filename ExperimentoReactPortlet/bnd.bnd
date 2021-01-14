@@ -1,0 +1,5 @@
+Bundle-Name: ExperimentoReactPortlet
+Bundle-SymbolicName: com.experimento.react
+Bundle-Version: 1.0.0
+Export-Package: com.experimento.react.constants
+Web-ContextPath: /ExperimentoReactPortlet
